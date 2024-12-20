@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="C:\Users\hp\TP\node-app\test\sum.test.js">
+    <testCase name="adds 1 + 2 to equal 3" duration="4"/>
+  </file>
+</testExecutions>
